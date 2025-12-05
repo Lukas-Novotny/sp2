@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Co je to aktivum?",
+    "answers": [
+      "Majetek podniku",
+      "Dluh podniku",
+      "Ztráta podniku"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "Co patří mezi náklady?",
+    "answers": [
+      "Tržby za prodej zboží",
+      "Spotřeba materiálu",
+      "Vklad vlastníka"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Který účet zachycuje peníze v hotovosti?",
+    "answers": [
+      "Pokladna",
+      "Bankovní úvěr",
+      "Odběratelé"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "question": "Co jsou pasiva?",
+    "answers": [
+      "Zásoby materiálu",
+      "Zdroje krytí majetku",
+      "Náklady příštích období"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Co znamená MD v účetnictví?",
+    "answers": [
+      "Měsíční daň",
+      "Má dáti",
+      "Majetkový dokument"
+    ],
+    "correctIndex": 1
+  }
+]

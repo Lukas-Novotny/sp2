@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "question": "Co je to HDP?",
+    "answers": [
+      "Hrubý domácí produkt",
+      "Hrubý daňový příjem",
+      "Hodnota dovozu"
+    ],
+    "correctIndex": 0
+  },
+    {
+    "id": 2,
+    "question": "Co je to HZP?",
+    "answers": [
+      "Hrubý domácí produkt",
+      "Hrubý daňový příjem",
+      "Hodnota dovozu"
+    ],
+    "correctIndex": 0
+  }
+
+]
